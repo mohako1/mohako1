@@ -83,6 +83,6 @@ Feel free to reach out to me!
 ---
 
 <p align="center">
-  <img src="Gifs/roy-leops.gif" width="200" alt="Bye Bye" />
+  <img src="Gifs/roy-leops.gif" width="500" alt="Bye Bye" />
 </p>
 
