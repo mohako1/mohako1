@@ -33,7 +33,7 @@ A comprehensive ML pipeline that benchmarks multiple model architectures on the 
 
 Languages: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-DB9B37?style=for-the-badge&logo=Java&logoColor=white) 
-![C++](https://img.shields.io/badge/C++-335B9C?style=for-the-badge&logo=C++&logoColor=white) <br>
+![C++](https://img.shields.io/badge/C++-335B9C?style=for-the-badge&logo=c%2B%2B&logoColor=white) <br>
 Web-Devlopment: ![Django](https://img.shields.io/badge/Django-20803A?style=for-the-badge&logo=django&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-503D85?style=for-the-badge&logo=Figma&logoColor=white) <br>
 ML & deep learning:![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
