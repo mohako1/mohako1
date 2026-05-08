@@ -76,7 +76,7 @@ I solve algorithmic problems on:
 
 Feel free to reach out to me!
 
-- 🟥 Gemail - Mohammed: mohammadalgunaid536@gmail.com
+- 🟥 Gmail - Mohammed: mohammadalgunaid536@gmail.com
 - 🟦 [Codeforces — mohako_1](https://codeforces.com/profile/mohako_1)
 - 🟧 [LeetCode — mohako_1](https://leetcode.com/u/mohako_1/)
 
